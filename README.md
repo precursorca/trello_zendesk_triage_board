@@ -15,5 +15,5 @@ This is based on work I did for the MDOYVR 2020 conference presentation.
 In 2020 Zendesk used API keys. However, Zendesk has now moved to OAUTH and has changed its Admin dashboard for webhooks. This 2.0 version of the recipe is modernized for Zendesk OAUTH.
 
 History
-2.0 Sept 2026 modernized for Zendesk OAUTH
-1.0 June 2020 presented at MDOYVR 2020
+* 2.0 Sept 2026 modernized for Zendesk OAUTH
+* 1.0 June 2020 presented at MDOYVR 2020
