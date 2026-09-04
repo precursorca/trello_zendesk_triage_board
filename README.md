@@ -10,7 +10,7 @@ This recipe (in the Rich Text RTFD file) shows how to integrate a Trello board w
 
 Allows a help desk worker to prioritize work.
 
-This is based on work I did for the MDOYVR 2020 conference presentation.
+This is based on work I did for the MDOYVR 2020 conference presentation. This presentation may be viewed at: https://www.youtube.com/watch?v=2T7zXoR9laI
 
 In 2020 Zendesk used API keys. However, Zendesk has now moved to OAUTH and has changed its Admin dashboard for webhooks. This 2.0 version of the recipe is modernized for Zendesk OAUTH.
 
