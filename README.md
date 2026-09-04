@@ -6,7 +6,7 @@
 
 ![Auto Triage](Auto_Triage.png)
 
-This recipe (in the Rich Text file) shows how to integrate a Trello board with Zendesk to auto-populate a Trello board with tickets from multiple organizations and automatically remove those tickets when solved.
+This recipe (in the Rich Text RTFD file) shows how to integrate a Trello board with Zendesk to auto-populate a Trello board with tickets from multiple organizations and automatically remove those tickets when solved.
 
 Allows a help desk worker to prioritize work.
 
